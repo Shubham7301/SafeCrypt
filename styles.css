@@ -1,0 +1,49 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+h1, h2, h3 {
+    color: #ed2424;
+}
+
+.sidebar .sidebar-content {
+    background-color: #ffffff;
+    color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.sidebar .stRadio > label {
+    color: #fff;
+}
+
+.stButton > button {
+    background-color: #0a6efc !important;
+    color: #fff !important;
+    border-color: #0047ab !important;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+
+.stButton > button:hover {
+    background-color: #002366 !important;
+    border-color: #002366 !important;
+}
+
+.stTextInput > div:first-child {
+    background-color: #fff;
+    border-color: #ccc;
+    border-radius: 5px;
+    padding: 8px;
+}
+
+.stTextArea > div:first-child {
+    background-color: #fff;
+    border-color: #ccc;
+    border-radius: 5px;
+    padding: 8px;
+}
